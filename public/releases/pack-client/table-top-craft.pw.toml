@@ -1,0 +1,13 @@
+name = "Table Top Craft"
+filename = "table_top_craft-fabric-1.20.1-5.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IO0hAHwQ/versions/cVszRa3Y/table_top_craft-fabric-1.20.1-5.0.2.jar"
+hash-format = "sha512"
+hash = "b5b7a6b564be8f25d57be608f788e1be32db47a53ca542f6a74107a90bf2b098e4f1b4f4541e50fbd157e56ca23d9c1d95526d6e09fe4d6a0f4f7a2c0e57a170"
+
+[update]
+[update.modrinth]
+mod-id = "IO0hAHwQ"
+version = "cVszRa3Y"

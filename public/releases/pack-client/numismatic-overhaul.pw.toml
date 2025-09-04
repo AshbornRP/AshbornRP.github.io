@@ -1,0 +1,13 @@
+name = "Numismatic Overhaul"
+filename = "numismatic-overhaul-0.2.17+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZXm8hVxN/versions/NGw6SF32/numismatic-overhaul-0.2.17%2B1.20.jar"
+hash-format = "sha512"
+hash = "56aa26fff1e7f3cf6d69e7fe7835714217aa38fa91d9cbe99910838f4891896b83f2f2566b6cfde8da17e7dd4e72055667159a951e7fb38b4edf133d155569a6"
+
+[update]
+[update.modrinth]
+mod-id = "ZXm8hVxN"
+version = "NGw6SF32"
