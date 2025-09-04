@@ -9,6 +9,10 @@ file = "README.md"
 hash = "be05d6312f411739d47abae93de303be2ec171120c55d36e5e819cd36925b2f0"
 
 [[files]]
+file = "config/test-config.toml"
+hash = "4d1df111e078628a80982201eab8779d850c33467e2b9ede9b01e6908da126af"
+
+[[files]]
 file = "config/unsup.toml"
 hash = "f93bb6e38624a8e6beacb06e4ef78bca493a204e580519f7eac9e7a9dc2fb650"
 
