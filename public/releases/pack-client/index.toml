@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/release.yml"
-hash = "7704aab4821deaabbb5daacc73491cf24b1a45d83be395432d35066c77a9f267"
+hash = "f03bdc8f1f08aa5b0c20ffc70a5a2b9a5b4d2f4ead63dcbc96417a969b059374"
 
 [[files]]
 file = "README.md"
 hash = "be05d6312f411739d47abae93de303be2ec171120c55d36e5e819cd36925b2f0"
+
+[[files]]
+file = "config/unsup.toml"
+hash = "f93bb6e38624a8e6beacb06e4ef78bca493a204e580519f7eac9e7a9dc2fb650"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1049,6 +1053,11 @@ hash = "b1a61e8c58ae66ee67efb1ecb6f4c48332346f82dbd91a60abf655461c993fa0"
 metafile = true
 
 [[files]]
+file = "mods/unsup.pw.toml"
+hash = "97e42b4ba3f1c4f43df0a5bb9b946254d84211e0921c3da5c90a3dd251ba7a76"
+metafile = true
+
+[[files]]
 file = "mods/vampire-patch.pw.toml"
 hash = "cc61b797bb3e15e22194474afbc589deb3fe9e5f4ba21e70c316a8d7ef97f58b"
 metafile = true
@@ -1092,7 +1101,3 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "7598f0435251f845fdf85c8ed2ac612b2d0404e0ee73a1fcdebaf4eb6c95296d"
 metafile = true
-
-[[files]]
-file = "unsup.ini"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
