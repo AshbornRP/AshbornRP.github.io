@@ -1,0 +1,13 @@
+name = "NeMuelch"
+filename = "nemuelch-1.8.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bwKDcyDE/versions/Yn6WuCLy/nemuelch-1.8.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "d5fd80855ed0527e06ce3e0ead7dde24f7654683d2d17aa71a859753cafef0e8b5907b437fb1efcf178dc4919bcd863483ecf8337251ba42f5a4e4831e0c1439"
+
+[update]
+[update.modrinth]
+mod-id = "bwKDcyDE"
+version = "Yn6WuCLy"

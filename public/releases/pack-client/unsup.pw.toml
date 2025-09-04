@@ -1,0 +1,13 @@
+name = "unsup"
+filename = "unsup-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rqwcr9qN/versions/IikHR9KO/unsup-1.1.5.jar"
+hash-format = "sha512"
+hash = "e2c8fad8b912b979cdca8bb52c03bd02282b583ab625c24d24a54fb71da7363cac507713caed1198e754d41bc822f179ba364d6b2f602d890a1f1065ee1fb13d"
+
+[update]
+[update.modrinth]
+mod-id = "Rqwcr9qN"
+version = "IikHR9KO"
