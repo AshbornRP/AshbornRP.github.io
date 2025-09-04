@@ -1,7 +1,7 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.3",
   "minecraft_version": "1.20.1",
-  "release_notes": "Update Check Release",
+  "release_notes": "Now with Source Format!",
   "pack_url": "https://ashbornrp.github.io/public/releases/pack-client/index.toml",
-  "updated_at": "2025-09-04T13:55:48Z"
+  "updated_at": "2025-09-04T17:28:40Z"
 }
