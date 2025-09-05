@@ -1,9 +1,0 @@
-name = "Bits and Chisels [Custom]"
-filename = "bitsandchisels-2.7.7-C.jar"
-side = "both"
-
-[download]
-url = "https://github.com/AshbornRP/pack-custom-jars/raw/main/bits-and-chisels/bitsandchisels-2.7.7-C.jar"
-
-hash-format = "sha256"
-hash = "776DE5DE348A3C94038644814D3575151EBCBB9AE32ABC5E4D1A34BD3EFD6228"
