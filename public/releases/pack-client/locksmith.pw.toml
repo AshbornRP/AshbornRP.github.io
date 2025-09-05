@@ -1,0 +1,9 @@
+name = "Locksmith [Custom]"
+filename = "locksmith-fabric-1.1.1_ashborn.jar"
+side = "both"
+
+[download]
+url = "https://github.com/AshbornRP/pack-custom-jars/raw/main/locksmith/locksmith-fabric-1.1.1_ashborn.jar"
+
+hash-format = "sha256"
+hash = "F32EB7FEE6FBE77632FA467115DF5E8BC82716BB6BA7E69AD0488451A60AB36E"
