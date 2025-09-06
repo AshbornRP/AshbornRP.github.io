@@ -1,9 +1,0 @@
-name = "Charm [Custom]"
-filename = "charm-fabric-1.20.1-forked-6.0.24.jar"
-side = "both"
-
-[download]
-url = "https://ashbornrp.github.io/public/releases/pack-client/custom-jars/charm-fabric-1.20.1-forked-6.0.24.jar"
-
-hash-format = "sha256"
-hash = "F7A84D8B06648D5B5427FAA0018744176E678C7E446CD6B3BD9EDE5BEF0E2A62"
