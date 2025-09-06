@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/release.yml"
-hash = "a5fb9cc3e363d0db1c27b4a71b4c6b9aa8b32b40f82841c033922fe47dbc103f"
+hash = "7fc17f5fe6eb05c752ac89c420e620217a7c4fa211a134ce4e9857a8ca047699"
 
 [[files]]
 file = "README.md"
-hash = "be05d6312f411739d47abae93de303be2ec171120c55d36e5e819cd36925b2f0"
+hash = "2706857d3ecc5e64d398f477607000dd6859a92816f5468f5165a6a2bb08db04"
 
 [[files]]
 file = "config/test-config.toml"
