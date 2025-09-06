@@ -1,0 +1,13 @@
+name = "Ashborn Mod"
+filename = "ashbornrp-1.0.2-1.20.1-NoDynAnim.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2RA8H6Ec/versions/xfia7Z2X/ashbornrp-1.0.2-1.20.1-NoDynAnim.jar"
+hash-format = "sha512"
+hash = "bf19a3fee9edea532f117d4d1fae5fcb364b0d780ab67e3e1cf5e9b3ac452a0bed073563c571a112091684e5eb4f3c01abe57f877e043fce7cd23e099b581b53"
+
+[update]
+[update.modrinth]
+mod-id = "2RA8H6Ec"
+version = "xfia7Z2X"
