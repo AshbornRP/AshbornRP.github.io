@@ -1105,3 +1105,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "7598f0435251f845fdf85c8ed2ac612b2d0404e0ee73a1fcdebaf4eb6c95296d"
 metafile = true
+
+[[files]]
+file = "unsup.ini"
+hash = "bb3aa1fd69a15be4671b6fb831195b5f317076628a6f5660aea80887dba93d14"
