@@ -1,0 +1,13 @@
+name = "Enchanted ToolTips"
+filename = "EnchantedToolTips-1.3.7-1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lftszdkG/versions/6VrBZg81/EnchantedToolTips-1.3.7-1.20.jar"
+hash-format = "sha512"
+hash = "6cb82400093600693bcff12667fa03af14b97cecfad4c77333e8b36e9f151f38ee86a8437bd0ffe4adc428366f8ec88bab0fe7710c226a09f901aa90c23f5ba3"
+
+[update]
+[update.modrinth]
+mod-id = "lftszdkG"
+version = "6VrBZg81"

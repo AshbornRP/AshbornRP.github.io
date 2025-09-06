@@ -1,0 +1,13 @@
+name = "BetterSleeping Revived"
+filename = "bettersleeping-0.6.2+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2840ea6f0df19f94dc04542865d022bf397ce398"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5371133
+project-id = 552358

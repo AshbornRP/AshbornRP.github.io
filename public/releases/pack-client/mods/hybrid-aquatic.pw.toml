@@ -1,0 +1,13 @@
+name = "Hybrid Aquatic"
+filename = "[1.20.1] Hybrid Aquatic 1.4.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HH4FjUqN/versions/8BAqhX3r/%5B1.20.1%5D%20Hybrid%20Aquatic%201.4.4.jar"
+hash-format = "sha512"
+hash = "5902138e945176b38d4b0bccfbca9498bb5f2c045f6bdd6b40de5d449b019d9ff3b386415301f585794542d0fb42dafda5c5fd051775ed11e6a30154c4c80180"
+
+[update]
+[update.modrinth]
+mod-id = "HH4FjUqN"
+version = "8BAqhX3r"
