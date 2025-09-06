@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/bits-and-chisels.pw.toml"
-hash = "3a635a244d873d4efa5c527d668394c2de34fad337aae36a4d878389c74295f9"
+hash = "d7eeed81b6b2384e1e06850e67b175262f610a0753414a9c09d2c7fa541c5e09"
 metafile = true
 
 [[files]]
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/charm.pw.toml"
-hash = "d0377390dd1a2b074d05a34fe174e6ccb59744ed131106ad0f11873b6f286f0c"
+hash = "3c539b92ba87845d50ee04fbf7a439d7e273e762aa15856323b1086df2eb219e"
 metafile = true
 
 [[files]]
@@ -674,7 +674,7 @@ metafile = true
 
 [[files]]
 file = "mods/locksmith.pw.toml"
-hash = "f5a768fcb399ac3ac1e4dc59d4379e6ebdf26304e4a65304ca83376900aea07c"
+hash = "7fae475e21fbe42191eb92f5d19deb445415833a8e8d2106985d9eeb7058b90c"
 metafile = true
 
 [[files]]
@@ -1099,7 +1099,7 @@ metafile = true
 
 [[files]]
 file = "mods/vampire-patch.pw.toml"
-hash = "a338ef61f798c8e976e90a1956e228970e5853319cc0b775ddfe14a76f101092"
+hash = "551ab44bb1664b6f91cb3303cba75cc46a6449abf269fc018d993e851f3b3a9a"
 metafile = true
 
 [[files]]
