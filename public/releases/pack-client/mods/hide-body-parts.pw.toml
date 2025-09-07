@@ -1,0 +1,13 @@
+name = "Hide Body Parts"
+filename = "hide-body-parts-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/soaGz3MF/versions/vk6UqHrx/hide-body-parts-1.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "6bf7fc4464ef9716052613096848269d3f49fe347fa30e10ab50bb3e34f6f442b7fd889850bfb5c233f16c4a7b4468f409a9e2121b8d1dca2d84cbe91761df6b"
+
+[update]
+[update.modrinth]
+mod-id = "soaGz3MF"
+version = "vk6UqHrx"

@@ -1,0 +1,13 @@
+name = "More Carpets"
+filename = "MoreCarpets-1.20.1-1.0.3-[FABRIC].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VWAugYdy/versions/y85dYBaz/MoreCarpets-1.20.1-1.0.3-%5BFABRIC%5D.jar"
+hash-format = "sha512"
+hash = "77e9dca932a0c9614a521f1a353067ccf34e0abd5beea8fb519705447c038f7e8aa44a3190a2e8890dc6bd8ffc0d6f28307f062212b0d9f98d531a57dc3c38e9"
+
+[update]
+[update.modrinth]
+mod-id = "VWAugYdy"
+version = "y85dYBaz"
