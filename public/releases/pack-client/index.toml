@@ -198,11 +198,6 @@ hash = "c3617cec16d4e6bf6872db3ccdbe650ed247bda831f1f5a9ef7ae12421777d1a"
 metafile = true
 
 [[files]]
-file = "mods/bits-and-chisels.pw.toml"
-hash = "d7eeed81b6b2384e1e06850e67b175262f610a0753414a9c09d2c7fa541c5e09"
-metafile = true
-
-[[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "92b54fed693e725faa96e793b643cb5245494643830f2a4e277d6c7150368e7d"
 metafile = true
@@ -260,11 +255,6 @@ metafile = true
 [[files]]
 file = "mods/cbcollection.pw.toml"
 hash = "4c0e8b5e638c58149d0f8258eb848458ccf6a33105beb7f7c8a8fb50de952f52"
-metafile = true
-
-[[files]]
-file = "mods/charm.pw.toml"
-hash = "3c539b92ba87845d50ee04fbf7a439d7e273e762aa15856323b1086df2eb219e"
 metafile = true
 
 [[files]]
@@ -670,11 +660,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
-metafile = true
-
-[[files]]
-file = "mods/locksmith.pw.toml"
-hash = "7fae475e21fbe42191eb92f5d19deb445415833a8e8d2106985d9eeb7058b90c"
 metafile = true
 
 [[files]]
@@ -1095,11 +1080,6 @@ metafile = true
 [[files]]
 file = "mods/unsup.pw.toml"
 hash = "97e42b4ba3f1c4f43df0a5bb9b946254d84211e0921c3da5c90a3dd251ba7a76"
-metafile = true
-
-[[files]]
-file = "mods/vampire-patch.pw.toml"
-hash = "551ab44bb1664b6f91cb3303cba75cc46a6449abf269fc018d993e851f3b3a9a"
 metafile = true
 
 [[files]]
