@@ -1104,9 +1104,17 @@ hash = "7598f0435251f845fdf85c8ed2ac612b2d0404e0ee73a1fcdebaf4eb6c95296d"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "b0f3038c6ca7f398cd2963f18d3bf7f68e3bbd06601bf3a568e26da8f348e836"
+
+[[files]]
 file = "resourcepacks/resourcepack-base.zip"
 hash = "ec081c2b26de56ab02e6705a6c17b69a0dd8abe4fd56d7927d31f3c34b1bd724"
 
 [[files]]
+file = "resourcepacks/resourcepack-gui.zip"
+hash = "a81bce3d4bd1c08d2dae55d2bf246ffd223bd8f87e05515102db140121bd0001"
+
+[[files]]
 file = "unsup.ini"
-hash = "3734e988d84eb21038b91c92e46e8be3450f5e77bf52eb453dc2118fb2969a60"
+hash = "f5c9f81220d68be22dc6a41bf9765f89af496b3e2036daa6c471fbe568c84927"

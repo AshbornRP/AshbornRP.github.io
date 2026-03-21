@@ -1,7 +1,7 @@
 {
-  "version": "0.0.25-exp",
+  "version": "0.0.26-exp",
   "minecraft_version": "1.20.1",
-  "release_notes": "fixed unsup.ini for managed resourcepacks",
+  "release_notes": "added unmanaged options.txt",
   "pack_url": "https://ashbornrp.github.io/public/releases/pack-client/index.toml",
-  "updated_at": "2026-03-21T22:28:22Z"
+  "updated_at": "2026-03-21T23:42:16Z"
 }
