@@ -1,12 +1,12 @@
 name = "AshbornRP Modpack Client"
 author = "AshbornRP Team"
-version = "0.0.23-exp"
+version = "0.0.24-exp"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "22e994600cf63164789caec16bec01d52309db26afc8c5bd24f5ef03106f08e5"
+hash = "3cd2b2b1ddc905258c15858b7238f0d7b1413d6583d8e9f5d8926e21cb90ef51"
 
 [versions]
 fabric = "0.17.2"
