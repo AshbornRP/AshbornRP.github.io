@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/release.yml"
-hash = "c9e8ccdd4cb798873496c8c52b68eca973f6f7f98b5f131125132c4789dba81d"
+hash = "421b7176758ad3f5d69940e75388fe5732c66be7da72f86e7dbdfb562c039668"
 
 [[files]]
 file = "README.md"
-hash = "2706857d3ecc5e64d398f477607000dd6859a92816f5468f5165a6a2bb08db04"
+hash = "6abd787f4888fd19a4dc6fd6c554bce65bfe08173a474acdf6d3c37a2d19a8e7"
 
 [[files]]
 file = "config/test-config.toml"
@@ -15,6 +15,10 @@ hash = "4d1df111e078628a80982201eab8779d850c33467e2b9ede9b01e6908da126af"
 [[files]]
 file = "config/unsup.toml"
 hash = "f93bb6e38624a8e6beacb06e4ef78bca493a204e580519f7eac9e7a9dc2fb650"
+
+[[files]]
+file = "icon.png"
+hash = "ee65a10c64f83a9ce219d5c02c424e75a5af6405c65de4433b070f254f16f7e2"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
