@@ -6,5 +6,3 @@ side = "both"
 url = "https://ashbornrp.github.io/public/releases/pack-client/custom-jars/charm-fabric-1.20.1-forked-6.0.24.jar"
 hash-format = "sha256"
 hash = "f7a84d8b06648d5b5427faa0018744176e678c7e446cd6b3bd9ede5bef0e2a62"
-
-[update]

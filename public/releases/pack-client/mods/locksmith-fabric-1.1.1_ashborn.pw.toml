@@ -6,5 +6,3 @@ side = "both"
 url = "https://ashbornrp.github.io/public/releases/pack-client/custom-jars/locksmith-fabric-1.1.1_ashborn.jar"
 hash-format = "sha256"
 hash = "f32eb7fee6fbe77632fa467115df5e8bc82716bb6ba7e69ad0488451a60ab36e"
-
-[update]

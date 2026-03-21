@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/release.yml"
-hash = "c3a68a40e82737eaf2b395e26f3878b99f87f60b9746f64e2b365aa746300146"
+hash = "71482e0fe63fb48ad97e284a27103a34ec4730af8b28b855971ee85d41bf92c5"
 
 [[files]]
 file = "README.md"
@@ -78,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/ashborn_patch-1.1.3.pw.toml"
-hash = "48cfbd2c10adbab4a7a0dca4a1b190093a49e54f2f213d3ee1cec9af22e82419"
+hash = "83ef175947a70d4a7b7be73dd5bfcb611a69623191e9299fec89b8ab70b14861"
 metafile = true
 
 [[files]]
@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/bitsandchisels-2.7.7-C.pw.toml"
-hash = "e2956a8b1ba4781807739d535c4acb9ca9c6e605e5b24a322088edbe01544ec9"
+hash = "0ce9a0e0790f2276bb1a9d6093c6798e73d3cbff56e4869ed58ba38800b11613"
 metafile = true
 
 [[files]]
@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/charm-fabric-1.20.1-forked-6.0.24.pw.toml"
-hash = "8ccf7f1906b5a4579173b71ae64ceacac198322aded2c47cdd2d2da5d30f5644"
+hash = "84f11ba44c24b740564d3497fd3b1d14a340a604756b08e3bf464f304682fc44"
 metafile = true
 
 [[files]]
@@ -653,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "mods/locksmith-fabric-1.1.1_ashborn.pw.toml"
-hash = "5f248921280514e878befe17f3d8c62ad281c37e7f41bddaf434e8105745c837"
+hash = "700276c0d71cbc1dcb8b517ac165c5962da50d5ec6cbd819b089923baeb42f90"
 metafile = true
 
 [[files]]
