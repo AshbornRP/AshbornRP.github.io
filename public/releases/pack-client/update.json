@@ -1,7 +1,7 @@
 {
-  "version": "0.0.7-exp",
+  "version": "0.0.8-exp",
   "minecraft_version": "1.20.1",
-  "release_notes": "fixed modrinth.index.json issue where custom jars would be missing before first launch",
+  "release_notes": "removed duplicates in overrides/mods",
   "pack_url": "https://ashbornrp.github.io/public/releases/pack-client/index.toml",
-  "updated_at": "2026-03-21T15:15:06Z"
+  "updated_at": "2026-03-21T17:56:46Z"
 }
