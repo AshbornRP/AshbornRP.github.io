@@ -69,6 +69,11 @@ hash = "0620055436b37c729981419dff94a0d951c9f4ebe4a696642c0deaec00aea68b"
 metafile = true
 
 [[files]]
+file = "mods/ashborn-patch.pw.toml"
+hash = "9bd503064553b7a555e645d956d62621a1e843dd4678ca997bfb812257d0a3ca"
+metafile = true
+
+[[files]]
 file = "mods/ashbornmod.pw.toml"
 hash = "ad93842eba46b5e9c8874b263feb90d6744994df6e7fef5e3a541a238b5ca13e"
 metafile = true
@@ -1056,11 +1061,6 @@ metafile = true
 [[files]]
 file = "mods/unsup.pw.toml"
 hash = "97e42b4ba3f1c4f43df0a5bb9b946254d84211e0921c3da5c90a3dd251ba7a76"
-metafile = true
-
-[[files]]
-file = "mods/vampire-patch.pw.toml"
-hash = "bbefd619db1c60a2070f7618072f6fa7168594811de5304555909cdbcc25e90e"
 metafile = true
 
 [[files]]
