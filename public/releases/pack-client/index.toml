@@ -1,24 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/release.yml"
-hash = "b2a512299c87f3bcb18e70436a91aac030e9eaa6a59385a22a79cdf16c71b81b"
-
-[[files]]
-file = "README.md"
-hash = "6abd787f4888fd19a4dc6fd6c554bce65bfe08173a474acdf6d3c37a2d19a8e7"
-
-[[files]]
 file = "config/test-config.toml"
 hash = "4d1df111e078628a80982201eab8779d850c33467e2b9ede9b01e6908da126af"
 
 [[files]]
 file = "config/unsup.toml"
 hash = "f93bb6e38624a8e6beacb06e4ef78bca493a204e580519f7eac9e7a9dc2fb650"
-
-[[files]]
-file = "icon.png"
-hash = "ee65a10c64f83a9ce219d5c02c424e75a5af6405c65de4433b070f254f16f7e2"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -167,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/bits-and-chisels.pw.toml"
-hash = "d7eeed81b6b2384e1e06850e67b175262f610a0753414a9c09d2c7fa541c5e09"
+hash = "9900643058b6b3dc752c4ccff73a8f702c79eb7a95c2f460703bdf96c7b3852a"
 metafile = true
 
 [[files]]
@@ -232,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/charm.pw.toml"
-hash = "3c539b92ba87845d50ee04fbf7a439d7e273e762aa15856323b1086df2eb219e"
+hash = "087d3d5594d2b319cc3e07c7e701d624b8485ad10886f104846f5626e2ab69e2"
 metafile = true
 
 [[files]]
@@ -642,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/locksmith.pw.toml"
-hash = "7fae475e21fbe42191eb92f5d19deb445415833a8e8d2106985d9eeb7058b90c"
+hash = "b2659f0aab057501e13dc26d711b7e6f36df34d6e44cc54b6da947b770987220"
 metafile = true
 
 [[files]]
@@ -1067,7 +1055,7 @@ metafile = true
 
 [[files]]
 file = "mods/vampire-patch.pw.toml"
-hash = "551ab44bb1664b6f91cb3303cba75cc46a6449abf269fc018d993e851f3b3a9a"
+hash = "bbefd619db1c60a2070f7618072f6fa7168594811de5304555909cdbcc25e90e"
 metafile = true
 
 [[files]]
