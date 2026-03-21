@@ -760,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/nemuelch.pw.toml"
-hash = "94100dbb535fe448459dd6877500cca4c36bc62405866a5498d9436eecd7f76a"
+hash = "1075f5bf0aae9b4d7b05292f39a696364149b2ea91bdfb8c07b089b053a73303"
 metafile = true
 
 [[files]]

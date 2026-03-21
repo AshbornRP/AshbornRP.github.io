@@ -1,13 +1,13 @@
 name = "NeMuelch"
-filename = "nemuelch-1.8.2-1.20.1.jar"
+filename = "nemuelch-1.14.1-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bwKDcyDE/versions/Yn6WuCLy/nemuelch-1.8.2-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/bwKDcyDE/versions/nF1gz0RO/nemuelch-1.14.1-1.20.1.jar"
 hash-format = "sha512"
-hash = "d5fd80855ed0527e06ce3e0ead7dde24f7654683d2d17aa71a859753cafef0e8b5907b437fb1efcf178dc4919bcd863483ecf8337251ba42f5a4e4831e0c1439"
+hash = "7a8686e956fd032448c5adefcab7c46961f14e2ffb0cb99e565a204ac0cd83ba7f90209e47fa50f3325ddf1d1d640fe7f5249fd3d62a037e2c4fd56e9e3a1371"
 
 [update]
 [update.modrinth]
 mod-id = "bwKDcyDE"
-version = "Yn6WuCLy"
+version = "nF1gz0RO"
