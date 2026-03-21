@@ -3,6 +3,6 @@ filename = "pollen-fabric-2.1.2-pre.3.jar"
 side = "both"
 
 [download]
-url = "https://github.com/AshbornRP/pack-custom-jars/raw/main/custom-mods/pollen/pollen-fabric-2.1.2-pre.3.jar"
+url = "https://ashbornrp.github.io/public/releases/pack-client/custom-jars/pollen-fabric-2.1.2-pre.3.jar"
 hash-format = "sha256"
 hash = "57ac3c35e212fbee7d215af51821272249fd8a6e596fb2babbb5e7fa40c61f0f"
