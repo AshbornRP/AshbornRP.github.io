@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/ashborn-patch.pw.toml"
-hash = "9bd503064553b7a555e645d956d62621a1e843dd4678ca997bfb812257d0a3ca"
+hash = "b57f96e484406efaba8390967cbbec94017db71e194d6578b69ca2ff3bec083f"
 metafile = true
 
 [[files]]

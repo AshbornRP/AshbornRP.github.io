@@ -1,7 +1,7 @@
 {
-  "version": "0.0.21-exp",
+  "version": "0.0.22-exp",
   "minecraft_version": "1.20.1",
-  "release_notes": "Updated Ashborn Patch mod",
+  "release_notes": "updated ashborn patch mod hash",
   "pack_url": "https://ashbornrp.github.io/public/releases/pack-client/index.toml",
-  "updated_at": "2026-03-21T21:26:02Z"
+  "updated_at": "2026-03-21T21:30:44Z"
 }
