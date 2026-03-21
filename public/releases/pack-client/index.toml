@@ -829,6 +829,11 @@ hash = "f108899097832206a501b0f2124ce2a0f7ea46b87b912f81ba9a9d86fe0713e3"
 metafile = true
 
 [[files]]
+file = "mods/pollen.pw.toml"
+hash = "ac590f81b34a65e7c7c5d0e0f856403da2c19a59ece0d960a2438355585cf7f4"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8293786ca23e23e7dd04d60d666f34145a00229a5959f7a1962995654cacdf1f"
 metafile = true
