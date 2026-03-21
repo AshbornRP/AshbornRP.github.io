@@ -1,7 +1,7 @@
 {
-  "version": "0.0.5-exp",
+  "version": "0.0.6-exp",
   "minecraft_version": "1.20.1",
-  "release_notes": "Test for custom jars inclusion",
+  "release_notes": "Removed unnecessary files from working directory?",
   "pack_url": "https://ashbornrp.github.io/public/releases/pack-client/index.toml",
-  "updated_at": "2026-03-21T14:06:12Z"
+  "updated_at": "2026-03-21T14:39:54Z"
 }
