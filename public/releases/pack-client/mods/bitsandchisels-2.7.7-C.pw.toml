@@ -1,0 +1,10 @@
+name = "bitsandchisels-2.7.7-C"
+filename = "bitsandchisels-2.7.7-C.jar"
+side = "both"
+
+[download]
+url = "https://ashbornrp.github.io/public/releases/pack-client/custom-jars/bitsandchisels-2.7.7-C.jar"
+hash-format = "sha256"
+hash = "776de5de348a3c94038644814d3575151ebcbb9ae32abc5e4d1a34bd3efd6228"
+
+[update]
