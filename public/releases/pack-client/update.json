@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2-pages-distribution",
   "minecraft_version": "1.20.1",
-  "release_notes": "Experimental Build",
+  "release_notes": "Minor CI/CD fixes",
   "pack_url": "https://ashbornrp.github.io/public/releases/pack-client/index.toml",
-  "updated_at": "2026-03-22T09:31:58Z"
+  "updated_at": "2026-03-22T11:40:53Z"
 }
